@@ -1,7 +1,5 @@
 # Sales Performance Analysis
 
-Use the Saved Sample – Superstore dataset. 
-
 Create a bullet chart with Category and Segment dimensions and Sales measures. 
 
 Blend the data with the Saved Sample - Sales Target data set to bring in the Sales Target measure. 
